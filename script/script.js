@@ -10,6 +10,6 @@ items[4] = 'suitcase';
 
 console.log('new length ', items.length);
 
-console.log('new item is ', items[3]);
+console.log('new item is', items[3]);
 
 console.log(items);
