@@ -7,7 +7,7 @@ console.log(favoriteShows.length);
 
 console.log(favoriteShows[0]+ ' ' + favoriteShows[9])
 
-let randomNumbers = ['76','02', '38', '94', '57']
+let randomNumbers = [76,2,38,94,57]
 
 console.log(randomNumbers[2] + randomNumbers[1]);
 
